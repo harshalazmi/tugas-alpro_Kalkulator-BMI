@@ -56,10 +56,11 @@ public class KalkulatorBMI {
 ## 🔍 Hasil Uji Coba
 
 ### 💡 Input
-![Input Dialog]()
+![Input Dialog](BMI1.png)
+![Input Dialog](BMI2.png)
 
 ### 📊 Output
-![Output Dialog]()
+![Output Dialog](BMI3.png)
 
 ---
 ## ✅ Kesimpulan
