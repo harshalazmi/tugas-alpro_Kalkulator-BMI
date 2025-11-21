@@ -29,7 +29,9 @@ public class KalkulatorBMI {
 		}
 		
 		//Hasil kalkulasi
-		String hasil = "Nilai BMI : " + nilaibmi +
+		String hasil = 
+				"Berat Badan : " + BeratB + "\nTinggi Badan : " + TinggiB_cm +
+				"\nNilai BMI : " + nilaibmi +
 				"\nKategori : " + Kategori;
 		JOptionPane.showMessageDialog(null, hasil, "Hasil BMI", JOptionPane.INFORMATION_MESSAGE);
 	}
