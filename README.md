@@ -61,7 +61,7 @@ public class KalkulatorBMI {
 
 ### 📊 Output
 ![Output Dialog](BMI3.png)
-![Revisi] (BMI3-REVISI.png)
+![Output Dialog](BMI3-REVISI.png)
 ---
 ## ✅ Kesimpulan
 Program berhasil dijalankan dan menampilkan hasil BMI dan kategori BMI .  
