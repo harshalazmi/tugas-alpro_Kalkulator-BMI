@@ -56,14 +56,13 @@ public class KalkulatorBMI {
 ## 🔍 Hasil Uji Coba
 
 ## ⏳Flowchart
-![Input Dialog](Flowchart_BMI.png)
+![Input Dialog](FlowchartBMIREVISI.png)
 
 ### 💡 Input
 ![Input Dialog](BMI1.png)
 ![Input Dialog](BMI2.png)
 
 ### 📊 Output
-![Output Dialog](BMI3.png)
 ![Output Dialog](BMI3-REVISI.png)
 ---
 ## ✅ Kesimpulan
